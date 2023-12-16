@@ -3,7 +3,7 @@ The project purpose is to build a classification model for product "Consumer cre
 
 Main purpose of this project and information about datasets:
 
-### We need to build a classification model based on the limited dataset for propensity to the product "**Consumer Credit**".
+The task of this project is to build a classification model based on the limited dataset for propensity to the product "**Consumer Credit**".
 <br>
 
 ***Datasets***:<br>
